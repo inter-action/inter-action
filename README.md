@@ -5,6 +5,7 @@
 - 📕 blog: 
   * tech blog: https://www.yuque.com/yinsusuonike/fqte7o, 
   * 📚 book list: https://github.com/inter-action/blog/blob/master/book-list.md
+  * 🏄‍♂️ repos been read: https://github.com/CrazyFork/Progress/blob/master/README.md
 - 📫 // todo:
 
 <!---
